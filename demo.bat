@@ -1,0 +1,1 @@
+C:\xampp\php\php.exe C:\xampp\htdocs\taskScheduled9\artisan schedule:run
